@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pure-air-tuey.vercel.app/sitemap.xml
